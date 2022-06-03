@@ -4,6 +4,7 @@ The game is about finding a word by its related reactions. Reactions are based o
 # <a id="howto"></a>How to use 
 
 Download or clone repository
+
 Open enclosed folder and run:
 
 ``` 
